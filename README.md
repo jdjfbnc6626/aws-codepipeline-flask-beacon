@@ -1,1 +1,2 @@
 - .zip migrate from GitLab to GitHub
+- Changed index pages and /hello /bye
